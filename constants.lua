@@ -1,0 +1,2 @@
+NB_CASES = 3
+SIZE_CASE = 200
